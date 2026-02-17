@@ -1,3 +1,43 @@
+# H-NEBULA | Solid Ideas Aero
+**Aerospace Innovation Rooted in Championship Precision**
+
+![H-Nebula Banner](h-nebula-render.jpg)
+
+## 🚀 The Vision
+H-Nebula is a heavy-lift eVTOL (Electric Vertical Take-Off and Landing) platform designed and manufactured by **Solid Ideas LLC** in Lawrenceville, GA. By integrating a proprietary **Stellar-Flow HHO Hybrid Loop**, the H-Nebula aims to redefine long-range flight endurance while producing medical-grade oxygen ($O_2$) as a propulsion byproduct.
+
+## 🛠️ The Machinist’s Edge
+Led by **Andres Ramirez**, a **VICA State Machining Champion** and professional **Quality Manager**, this project is built on a "Zero-Compromise" foundation. We don't just prototype; we engineer success through:
+- **Monolithic 7075-T6 Construction:** Utilizing high-strength isogrid structures for optimal weight-to-stiffness ratios.
+- **Advanced Metrology:** 100% validation via **FARO Arm CMM** to ensure ±0.001" tolerances on all flight-critical hardware.
+- **Proprietary Tooling:** Custom-engineered line boring solutions for 14-inch hubless motor architectures.
+
+## 📊 Technical Specifications
+| Feature | Specification |
+| :--- | :--- |
+| **Airframe** | Monolithic 7075-T6 Aluminum Isogrid |
+| **Propulsion** | 4x 14" Hubless Rim-Driven Motors |
+| **Power Plant** | Stellar-Flow Hybrid HHO Loop |
+| **Aero Profile** | 2:1 Elliptical Intake / 7° Diffuser Exit |
+| **Manufacturing** | CNC Milled & Precision Bored |
+| **Quality Standard** | AS9102 Digital Twin Validation |
+
+## 📅 Project Status: Phase 1 (In Progress)
+- [x] Initial CAD/CAM Design (Fusion 360)
+- [x] Provisional Patent Filed (Jan 2026)
+- [ ] Fabricating 14" Stator Ring Prototypes
+- [ ] Bench Validation of HHO Loop
+- [ ] FARO Arm Dimensional Audit
+
+## 🔒 Confidentiality & IP
+Solid Ideas LLC operates under strict **NDA protocols**. While this repository tracks the high-level development of the H-Nebula, specific proprietary geometries and "Black Box" data are stored in secure, private directories.
+
+---
+**Solid Ideas LLC** *1855 McDowell Court, Lawrenceville, GA 30044* **Email:** [Andres@solidideasaero.com](mailto:Andres@solidideasaero.com)  
+**Web:** [solidideasaero.com](https://solidideasaero.com)
+
+
+
 # Solid Ideas Aero - H-Nebula eVTOL Website
 
 🚁 Official website for **Solid Ideas Aero** showcasing the revolutionary **H-Nebula eVTOL** platform and precision aerospace manufacturing services.
