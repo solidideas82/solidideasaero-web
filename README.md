@@ -22,7 +22,7 @@ Solid Ideas Aero combines aerospace innovation with championship-level precision
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://solidideas82.github.io/solidideasaero-web/](https://solidideas82.github.io/solidideasaero-web/)
+Visit the live website: [https://solidideas82.github.io/](https://solidideas82.github.io/)
 
 ## 📂 Project Structure
 

@@ -18,7 +18,7 @@ This document serves as a step-by-step guide for deploying the solidideasaero-we
 
 ## Step 3: Test the Live Site
 - After enabling GitHub Pages, your site should be available at:
-  - **https://solidideas82.github.io/solidideasaero-web/**
+  - **https://solidideas82.github.io/**
 - Access the link above in your browser to ensure the website is live and functioning as expected.
 
 
