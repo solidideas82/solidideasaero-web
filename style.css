@@ -1,5 +1,42 @@
-
+/* Update the Hero Section */
 .hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('h-nebula-hero.jpg.png') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+/* Add this to the bottom for the new Gallery */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 40px 20px;
+    background: #0b0d17;
+}
+
+.gallery-grid figure {
+    margin: 0;
+    text-align: center;
+    border: 1px solid #1a1e2e;
+    padding: 15px;
+    background: #141824;
+}
+
+.gallery-grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.gallery-grid figcaption {
+    margin-top: 10px;
+    color: #a0a4b8;
+    font-size: 0.9rem;
+}
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('h-nebula-render.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
